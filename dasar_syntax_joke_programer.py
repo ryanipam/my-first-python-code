@@ -2,6 +2,7 @@
 ini adalah file percobaan pertama
 """
 
+# logika
 susu = input("Apakah susu ada?")
 beli = 'tidak ada yg dibeli'
 if susu == 'y':
